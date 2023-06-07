@@ -1,0 +1,20 @@
+footer {
+    background-color: #1b91d1;
+    margin: 0;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
+
+footer a:visited {
+    color: #ffffff;
+}
+
+.search-icon {
+    margin: 0.2em;
+}

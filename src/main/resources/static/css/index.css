@@ -1,0 +1,34 @@
+a {
+    /*text-decoration: none;*/
+    color: #0d6efd;
+}
+
+ #search1 {
+
+    margin-left: 15%;
+
+
+  }
+
+filter {
+	width: 200px;
+	border-color: black;
+}
+
+card-img-top {
+	width:100px;
+}
+
+#tel{
+	text-decoration: none;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    color: orange;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: 'Roboto', sans-serif;
+}
